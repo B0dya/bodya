@@ -116,6 +116,10 @@ a {
     color: #B71C1C; 
     text-decoration: none;}
 
+#links {
+  display: flex;
+}
+
 #links img {
   margin: 2px;
 }
@@ -125,4 +129,9 @@ a {
   margin-right: 10px;
   box-shadow: 2px 1px 14px 1px #616161;
   transform: scale(1.2);
+}
+
+
+.preview img {
+  width: 50%;
 }
